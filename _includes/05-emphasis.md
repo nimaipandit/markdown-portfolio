@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I am **not** interested in anything other than *web development*
+1. thank you
+2. and good bye
